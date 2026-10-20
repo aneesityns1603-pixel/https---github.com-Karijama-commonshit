@@ -1,0 +1,137 @@
+[
+  {
+    "instance_id": 0,
+    "vertices": 78,
+    "frames": [
+      "00110",
+      "00259",
+      "00165"
+    ]
+  },
+  {
+    "instance_id": 1,
+    "vertices": 581,
+    "frames": [
+      "00230",
+      "00220",
+      "00218"
+    ]
+  },
+  {
+    "instance_id": 2,
+    "vertices": 581,
+    "frames": [
+      "00213",
+      "00221",
+      "00216"
+    ]
+  },
+  {
+    "instance_id": 3,
+    "vertices": 1976,
+    "frames": [
+      "00203",
+      "00199",
+      "00188"
+    ]
+  },
+  {
+    "instance_id": 4,
+    "vertices": 5151,
+    "frames": [
+      "00093",
+      "00091",
+      "00090"
+    ]
+  },
+  {
+    "instance_id": 5,
+    "vertices": 5151,
+    "frames": [
+      "00123",
+      "00124",
+      "00097"
+    ]
+  },
+  {
+    "instance_id": 6,
+    "vertices": 6544,
+    "frames": [
+      "00245",
+      "00249",
+      "00238"
+    ]
+  },
+  {
+    "instance_id": 7,
+    "vertices": 2134,
+    "frames": [
+      "00083",
+      "00088",
+      "00260"
+    ]
+  },
+  {
+    "instance_id": 8,
+    "vertices": 618,
+    "frames": [
+      "00180",
+      "00139",
+      "00138"
+    ]
+  },
+  {
+    "instance_id": 9,
+    "vertices": 770,
+    "frames": [
+      "00201",
+      "00199",
+      "00224"
+    ]
+  },
+  {
+    "instance_id": 10,
+    "vertices": 770,
+    "frames": [
+      "00203",
+      "00204",
+      "00194"
+    ]
+  },
+  {
+    "instance_id": 11,
+    "vertices": 10613,
+    "frames": [
+      "00069",
+      "00106",
+      "00261"
+    ]
+  },
+  {
+    "instance_id": 12,
+    "vertices": 10613,
+    "frames": [
+      "00096",
+      "00071",
+      "00119"
+    ]
+  },
+  {
+    "instance_id": 13,
+    "vertices": 770,
+    "frames": [
+      "00190",
+      "00183",
+      "00185"
+    ]
+  },
+  {
+    "instance_id": 14,
+    "vertices": 770,
+    "frames": [
+      "00191",
+      "00183",
+      "00197"
+    ]
+  }
+]

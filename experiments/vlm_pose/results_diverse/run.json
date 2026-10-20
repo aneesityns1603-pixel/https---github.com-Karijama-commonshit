@@ -1,0 +1,457 @@
+{
+  "configuration": {
+    "root": "C:\\Users\\79248\\Downloads\\scannet5_posed_images_points_gt\\scannet5",
+    "output": "experiments\\vlm_pose\\results_diverse",
+    "scenes": [
+      "all"
+    ],
+    "views": 3,
+    "score": "approx_unoccluded_vertices",
+    "cell": 4,
+    "scan_radius": 1,
+    "tolerance": 0.1,
+    "min_angle": 15.0
+  },
+  "results": [
+    {
+      "scene": "scene0472_01",
+      "instances": [
+        {
+          "instance_id": 0,
+          "vertices": 1786,
+          "frames": [
+            "00090",
+            "00179",
+            "00299"
+          ]
+        },
+        {
+          "instance_id": 1,
+          "vertices": 635,
+          "frames": [
+            "00066",
+            "00147",
+            "00103"
+          ]
+        },
+        {
+          "instance_id": 2,
+          "vertices": 682,
+          "frames": [
+            "00012",
+            "00027",
+            "00230"
+          ]
+        },
+        {
+          "instance_id": 3,
+          "vertices": 4122,
+          "frames": [
+            "00011",
+            "00232",
+            "00157"
+          ]
+        },
+        {
+          "instance_id": 4,
+          "vertices": 3668,
+          "frames": [
+            "00239",
+            "00225",
+            "00160"
+          ]
+        },
+        {
+          "instance_id": 5,
+          "vertices": 3668,
+          "frames": [
+            "00231",
+            "00017",
+            "00159"
+          ]
+        },
+        {
+          "instance_id": 6,
+          "vertices": 40,
+          "frames": [
+            "00109",
+            "00186",
+            "00122"
+          ]
+        },
+        {
+          "instance_id": 7,
+          "vertices": 830,
+          "frames": [
+            "00269",
+            "00261",
+            "00275"
+          ]
+        },
+        {
+          "instance_id": 8,
+          "vertices": 244,
+          "frames": [
+            "00253",
+            "00296",
+            "00258"
+          ]
+        },
+        {
+          "instance_id": 9,
+          "vertices": 273,
+          "frames": [
+            "00297",
+            "00252",
+            "00256"
+          ]
+        },
+        {
+          "instance_id": 10,
+          "vertices": 769,
+          "frames": [
+            "00260",
+            "00264",
+            "00252"
+          ]
+        },
+        {
+          "instance_id": 11,
+          "vertices": 769,
+          "frames": [
+            "00275",
+            "00264",
+            "00159"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "scene0224_00",
+      "instances": [
+        {
+          "instance_id": 0,
+          "vertices": 24,
+          "frames": [
+            "00200",
+            "00273",
+            "00011"
+          ]
+        },
+        {
+          "instance_id": 1,
+          "vertices": 736,
+          "frames": [
+            "00230",
+            "00249",
+            "00112"
+          ]
+        },
+        {
+          "instance_id": 2,
+          "vertices": 986,
+          "frames": [
+            "00258",
+            "00143",
+            "00110"
+          ]
+        },
+        {
+          "instance_id": 3,
+          "vertices": 3139,
+          "frames": [
+            "00022",
+            "00206",
+            "00267"
+          ]
+        },
+        {
+          "instance_id": 4,
+          "vertices": 3242,
+          "frames": [
+            "00065",
+            "00254",
+            "00162"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "scene0499_00",
+      "instances": [
+        {
+          "instance_id": 0,
+          "vertices": 78,
+          "frames": [
+            "00110",
+            "00259",
+            "00165"
+          ]
+        },
+        {
+          "instance_id": 1,
+          "vertices": 581,
+          "frames": [
+            "00230",
+            "00220",
+            "00218"
+          ]
+        },
+        {
+          "instance_id": 2,
+          "vertices": 581,
+          "frames": [
+            "00213",
+            "00221",
+            "00216"
+          ]
+        },
+        {
+          "instance_id": 3,
+          "vertices": 1976,
+          "frames": [
+            "00203",
+            "00199",
+            "00188"
+          ]
+        },
+        {
+          "instance_id": 4,
+          "vertices": 5151,
+          "frames": [
+            "00093",
+            "00091",
+            "00090"
+          ]
+        },
+        {
+          "instance_id": 5,
+          "vertices": 5151,
+          "frames": [
+            "00123",
+            "00124",
+            "00097"
+          ]
+        },
+        {
+          "instance_id": 6,
+          "vertices": 6544,
+          "frames": [
+            "00245",
+            "00249",
+            "00238"
+          ]
+        },
+        {
+          "instance_id": 7,
+          "vertices": 2134,
+          "frames": [
+            "00083",
+            "00088",
+            "00260"
+          ]
+        },
+        {
+          "instance_id": 8,
+          "vertices": 618,
+          "frames": [
+            "00180",
+            "00139",
+            "00138"
+          ]
+        },
+        {
+          "instance_id": 9,
+          "vertices": 770,
+          "frames": [
+            "00201",
+            "00199",
+            "00224"
+          ]
+        },
+        {
+          "instance_id": 10,
+          "vertices": 770,
+          "frames": [
+            "00203",
+            "00204",
+            "00194"
+          ]
+        },
+        {
+          "instance_id": 11,
+          "vertices": 10613,
+          "frames": [
+            "00069",
+            "00106",
+            "00261"
+          ]
+        },
+        {
+          "instance_id": 12,
+          "vertices": 10613,
+          "frames": [
+            "00096",
+            "00071",
+            "00119"
+          ]
+        },
+        {
+          "instance_id": 13,
+          "vertices": 770,
+          "frames": [
+            "00190",
+            "00183",
+            "00185"
+          ]
+        },
+        {
+          "instance_id": 14,
+          "vertices": 770,
+          "frames": [
+            "00191",
+            "00183",
+            "00197"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "scene0568_02",
+      "instances": [
+        {
+          "instance_id": 0,
+          "vertices": 294,
+          "frames": [
+            "00259",
+            "00247",
+            "00235"
+          ]
+        },
+        {
+          "instance_id": 1,
+          "vertices": 338,
+          "frames": [
+            "00240",
+            "00262",
+            "00249"
+          ]
+        },
+        {
+          "instance_id": 2,
+          "vertices": 40,
+          "frames": [
+            "00220",
+            "00190",
+            "00237"
+          ]
+        },
+        {
+          "instance_id": 3,
+          "vertices": 136,
+          "frames": [
+            "00076",
+            "00097"
+          ]
+        },
+        {
+          "instance_id": 4,
+          "vertices": 44,
+          "frames": [
+            "00011",
+            "00282",
+            "00263"
+          ]
+        },
+        {
+          "instance_id": 5,
+          "vertices": 5152,
+          "frames": [
+            "00206",
+            "00227",
+            "00218"
+          ]
+        },
+        {
+          "instance_id": 6,
+          "vertices": 32,
+          "frames": [
+            "00161"
+          ]
+        },
+        {
+          "instance_id": 7,
+          "vertices": 32,
+          "frames": [
+            "00165"
+          ]
+        },
+        {
+          "instance_id": 8,
+          "vertices": 584,
+          "frames": [
+            "00218",
+            "00203"
+          ]
+        },
+        {
+          "instance_id": 9,
+          "vertices": 19991,
+          "frames": [
+            "00095",
+            "00079"
+          ]
+        },
+        {
+          "instance_id": 10,
+          "vertices": 19991,
+          "frames": [
+            "00126",
+            "00080"
+          ]
+        },
+        {
+          "instance_id": 11,
+          "vertices": 223,
+          "frames": [
+            "00296",
+            "00023",
+            "00265"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "scene0084_01",
+      "instances": [
+        {
+          "instance_id": 0,
+          "vertices": 484,
+          "frames": [
+            "00054",
+            "00036",
+            "00298"
+          ]
+        },
+        {
+          "instance_id": 1,
+          "vertices": 672,
+          "frames": [
+            "00091",
+            "00055",
+            "00298"
+          ]
+        },
+        {
+          "instance_id": 2,
+          "vertices": 9742,
+          "frames": [
+            "00250",
+            "00232",
+            "00214"
+          ]
+        }
+      ]
+    }
+  ]
+}

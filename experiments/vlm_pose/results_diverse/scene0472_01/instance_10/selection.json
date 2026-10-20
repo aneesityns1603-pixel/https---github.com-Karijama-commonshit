@@ -1,0 +1,3934 @@
+{
+  "score": "approx_unoccluded_vertices",
+  "min_angle_degrees": 15.0,
+  "selected": [
+    {
+      "frame_id": "00260",
+      "rgb": "posed_images/00260.jpg",
+      "view_direction": [
+        -0.6154938094803342,
+        -0.5861394943555835,
+        0.5268850573398026
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 704,
+      "unknown_scan_depth_vertices": 132,
+      "scan_blocked_front_vertices": 65
+    },
+    {
+      "frame_id": "00264",
+      "rgb": "posed_images/00264.jpg",
+      "view_direction": [
+        -0.3823826385372858,
+        -0.6655268049878109,
+        0.6409817388880745
+      ],
+      "in_frustum_vertices": 747,
+      "approx_unoccluded_vertices": 685,
+      "unknown_scan_depth_vertices": 169,
+      "scan_blocked_front_vertices": 62
+    },
+    {
+      "frame_id": "00252",
+      "rgb": "posed_images/00252.jpg",
+      "view_direction": [
+        -0.8132607784963354,
+        -0.44027312528349294,
+        0.38048190668235504
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 661,
+      "unknown_scan_depth_vertices": 33,
+      "scan_blocked_front_vertices": 106
+    }
+  ],
+  "all_frames": [
+    {
+      "frame_id": "00000",
+      "rgb": "posed_images/00000.jpg",
+      "view_direction": [
+        -0.8766354553214378,
+        -0.400450260745029,
+        0.2667393243273548
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00001",
+      "rgb": "posed_images/00001.jpg",
+      "view_direction": [
+        -0.8763253890808205,
+        -0.40068412501604433,
+        0.26740614131406076
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00002",
+      "rgb": "posed_images/00002.jpg",
+      "view_direction": [
+        -0.8753921250567127,
+        -0.40198513735802177,
+        0.26850805710805936
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00003",
+      "rgb": "posed_images/00003.jpg",
+      "view_direction": [
+        -0.875380862620765,
+        -0.4030492076162366,
+        0.26694509097799346
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00004",
+      "rgb": "posed_images/00004.jpg",
+      "view_direction": [
+        -0.8747948827075805,
+        -0.4040463383623216,
+        0.26735831695429
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00005",
+      "rgb": "posed_images/00005.jpg",
+      "view_direction": [
+        -0.8742228560435908,
+        -0.40501652015375067,
+        0.2677611181137653
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00006",
+      "rgb": "posed_images/00006.jpg",
+      "view_direction": [
+        -0.8664565368239542,
+        -0.42237123194621745,
+        0.26618717515927454
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00007",
+      "rgb": "posed_images/00007.jpg",
+      "view_direction": [
+        -0.8638222780133041,
+        -0.4287687174980962,
+        0.2645155173197667
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00008",
+      "rgb": "posed_images/00008.jpg",
+      "view_direction": [
+        -0.8542617287513212,
+        -0.4447349615682579,
+        0.2691611278578021
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00009",
+      "rgb": "posed_images/00009.jpg",
+      "view_direction": [
+        -0.8459959921849433,
+        -0.46054159506500886,
+        0.26868610016521277
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00010",
+      "rgb": "posed_images/00010.jpg",
+      "view_direction": [
+        -0.8421394880405594,
+        -0.4677307264996072,
+        0.26838228363834693
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00011",
+      "rgb": "posed_images/00011.jpg",
+      "view_direction": [
+        -0.8385772180680623,
+        -0.4769092663096248,
+        0.26333590914504035
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00012",
+      "rgb": "posed_images/00012.jpg",
+      "view_direction": [
+        -0.8325494661200799,
+        -0.48780592150444574,
+        0.2625009893474094
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00013",
+      "rgb": "posed_images/00013.jpg",
+      "view_direction": [
+        -0.8216084699614478,
+        -0.5056750650868231,
+        0.26315822357860313
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00014",
+      "rgb": "posed_images/00014.jpg",
+      "view_direction": [
+        -0.8189381462148072,
+        -0.5116127427517784,
+        0.25998598833063624
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00015",
+      "rgb": "posed_images/00015.jpg",
+      "view_direction": [
+        -0.8170027971831448,
+        -0.514625680141874,
+        0.26012850426939094
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00016",
+      "rgb": "posed_images/00016.jpg",
+      "view_direction": [
+        -0.810538762830397,
+        -0.524585259078952,
+        0.2604557926144824
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00017",
+      "rgb": "posed_images/00017.jpg",
+      "view_direction": [
+        -0.7834836401962799,
+        -0.5647857589076538,
+        0.25917259129755915
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00018",
+      "rgb": "posed_images/00018.jpg",
+      "view_direction": [
+        -0.7776966324591917,
+        -0.5723897242517514,
+        0.2599191247919953
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00019",
+      "rgb": "posed_images/00019.jpg",
+      "view_direction": [
+        -0.7758548829219144,
+        -0.5751200128706506,
+        0.2593957814650909
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00020",
+      "rgb": "posed_images/00020.jpg",
+      "view_direction": [
+        -0.7741362714055349,
+        -0.5777753828183755,
+        0.25862838263310484
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00021",
+      "rgb": "posed_images/00021.jpg",
+      "view_direction": [
+        -0.7673978135217635,
+        -0.587662329467169,
+        0.2564246133413033
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00022",
+      "rgb": "posed_images/00022.jpg",
+      "view_direction": [
+        -0.7381410367981869,
+        -0.6224683430980023,
+        0.26015566808225704
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00023",
+      "rgb": "posed_images/00023.jpg",
+      "view_direction": [
+        -0.7295661766689892,
+        -0.6333794402191228,
+        0.25799937706960463
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00024",
+      "rgb": "posed_images/00024.jpg",
+      "view_direction": [
+        -0.700357211110952,
+        -0.6641935180522202,
+        0.2614321086291898
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00025",
+      "rgb": "posed_images/00025.jpg",
+      "view_direction": [
+        -0.6986686665764021,
+        -0.6657020336639468,
+        0.262112374221512
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00026",
+      "rgb": "posed_images/00026.jpg",
+      "view_direction": [
+        -0.693238345287691,
+        -0.6704428768703986,
+        0.2644370349942076
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00027",
+      "rgb": "posed_images/00027.jpg",
+      "view_direction": [
+        -0.6827990095330307,
+        -0.678767051491218,
+        0.27029761817417186
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00028",
+      "rgb": "posed_images/00028.jpg",
+      "view_direction": [
+        -0.6793837822131398,
+        -0.6813019793176354,
+        0.27251658563038234
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00029",
+      "rgb": "posed_images/00029.jpg",
+      "view_direction": [
+        -0.6783154249732057,
+        -0.6821315519010318,
+        0.2731020507878133
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00030",
+      "rgb": "posed_images/00030.jpg",
+      "view_direction": [
+        -0.6783478662946543,
+        -0.6822918281974263,
+        0.2726206768909937
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00031",
+      "rgb": "posed_images/00031.jpg",
+      "view_direction": [
+        -0.677138861168995,
+        -0.682110213893479,
+        0.2760590856989657
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00032",
+      "rgb": "posed_images/00032.jpg",
+      "view_direction": [
+        -0.6785867228501045,
+        -0.6800103597011672,
+        0.2776796180324454
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00033",
+      "rgb": "posed_images/00033.jpg",
+      "view_direction": [
+        -0.6831656574196925,
+        -0.6737410844862827,
+        0.28170487322296545
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00034",
+      "rgb": "posed_images/00034.jpg",
+      "view_direction": [
+        -0.7081802276336494,
+        -0.6454033749781752,
+        0.2862433383600977
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00035",
+      "rgb": "posed_images/00035.jpg",
+      "view_direction": [
+        -0.7130068528279977,
+        -0.6380248540878709,
+        0.2907671119409227
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00036",
+      "rgb": "posed_images/00036.jpg",
+      "view_direction": [
+        -0.7146962711072751,
+        -0.6353860694527267,
+        0.2923931989817326
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00037",
+      "rgb": "posed_images/00037.jpg",
+      "view_direction": [
+        -0.720034482569244,
+        -0.6269510599599826,
+        0.29746043825405655
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00038",
+      "rgb": "posed_images/00038.jpg",
+      "view_direction": [
+        -0.7200819740665304,
+        -0.6264307844668232,
+        0.29843998206796823
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00039",
+      "rgb": "posed_images/00039.jpg",
+      "view_direction": [
+        -0.7236542591530991,
+        -0.6178618648336321,
+        0.3075243554482893
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00040",
+      "rgb": "posed_images/00040.jpg",
+      "view_direction": [
+        -0.7229260177022466,
+        -0.6154969673134344,
+        0.3139131347317856
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00041",
+      "rgb": "posed_images/00041.jpg",
+      "view_direction": [
+        -0.720066191080506,
+        -0.6164166793915694,
+        0.3186458187873857
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00042",
+      "rgb": "posed_images/00042.jpg",
+      "view_direction": [
+        -0.7214083491495061,
+        -0.6142636677269776,
+        0.31976575846701516
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00043",
+      "rgb": "posed_images/00043.jpg",
+      "view_direction": [
+        -0.7219589320956689,
+        -0.6135310678598386,
+        0.31992956902738373
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00044",
+      "rgb": "posed_images/00044.jpg",
+      "view_direction": [
+        -0.723661709040036,
+        -0.6108999519569608,
+        0.3211152122965174
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00045",
+      "rgb": "posed_images/00045.jpg",
+      "view_direction": [
+        -0.7258384352560026,
+        -0.6089980818779092,
+        0.3198122920935736
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00046",
+      "rgb": "posed_images/00046.jpg",
+      "view_direction": [
+        -0.7290126043073117,
+        -0.6110170001853498,
+        0.30854310597640494
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00047",
+      "rgb": "posed_images/00047.jpg",
+      "view_direction": [
+        -0.7321366460155502,
+        -0.6085117083579725,
+        0.3060872953135473
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00048",
+      "rgb": "posed_images/00048.jpg",
+      "view_direction": [
+        -0.7363658498133111,
+        -0.6066963498130314,
+        0.2994743300389267
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00049",
+      "rgb": "posed_images/00049.jpg",
+      "view_direction": [
+        -0.7352724296953053,
+        -0.6095648556218165,
+        0.29631932255713017
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00050",
+      "rgb": "posed_images/00050.jpg",
+      "view_direction": [
+        -0.7344865256226782,
+        -0.6102693362307072,
+        0.2968179255625559
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00051",
+      "rgb": "posed_images/00051.jpg",
+      "view_direction": [
+        -0.7311458726214992,
+        -0.6143918368438849,
+        0.2965609275817428
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00052",
+      "rgb": "posed_images/00052.jpg",
+      "view_direction": [
+        -0.7184947902831297,
+        -0.6290425207611198,
+        0.29676715352359606
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00053",
+      "rgb": "posed_images/00053.jpg",
+      "view_direction": [
+        -0.7164574802857674,
+        -0.6320938439623986,
+        0.29520510051048954
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00054",
+      "rgb": "posed_images/00054.jpg",
+      "view_direction": [
+        -0.716411665177985,
+        -0.6322610934091912,
+        0.2949580237218857
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00055",
+      "rgb": "posed_images/00055.jpg",
+      "view_direction": [
+        -0.7167169740111449,
+        -0.6325191209506693,
+        0.2936602472179378
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00056",
+      "rgb": "posed_images/00056.jpg",
+      "view_direction": [
+        -0.7157553745960731,
+        -0.6312984866550108,
+        0.29859079772144403
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00057",
+      "rgb": "posed_images/00057.jpg",
+      "view_direction": [
+        -0.7152221865545008,
+        -0.6329290604843488,
+        0.2964085495639397
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00058",
+      "rgb": "posed_images/00058.jpg",
+      "view_direction": [
+        -0.7147220206259906,
+        -0.6326247589936287,
+        0.29825885995315254
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00059",
+      "rgb": "posed_images/00059.jpg",
+      "view_direction": [
+        -0.7150848832237251,
+        -0.6336132642182061,
+        0.2952758730266686
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00060",
+      "rgb": "posed_images/00060.jpg",
+      "view_direction": [
+        -0.7148046543099656,
+        -0.6345265554611847,
+        0.2939904022096209
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00061",
+      "rgb": "posed_images/00061.jpg",
+      "view_direction": [
+        -0.7151397023337751,
+        -0.634047145570675,
+        0.2942098287611051
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00062",
+      "rgb": "posed_images/00062.jpg",
+      "view_direction": [
+        -0.7204510057256872,
+        -0.6242836519972293,
+        0.30202693621239834
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00063",
+      "rgb": "posed_images/00063.jpg",
+      "view_direction": [
+        -0.7284810776134397,
+        -0.612163507525336,
+        0.3075242423182921
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00064",
+      "rgb": "posed_images/00064.jpg",
+      "view_direction": [
+        -0.7423959810644882,
+        -0.5931558805444528,
+        0.3114712003939226
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00065",
+      "rgb": "posed_images/00065.jpg",
+      "view_direction": [
+        -0.748138721185342,
+        -0.5847173133499621,
+        0.3136783660566397
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00066",
+      "rgb": "posed_images/00066.jpg",
+      "view_direction": [
+        -0.7640555562506808,
+        -0.5530833690381205,
+        0.33214137630819957
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00067",
+      "rgb": "posed_images/00067.jpg",
+      "view_direction": [
+        -0.7654080297969591,
+        -0.5498889557293599,
+        0.33432422031496817
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00068",
+      "rgb": "posed_images/00068.jpg",
+      "view_direction": [
+        -0.7698863345905417,
+        -0.5403235806771999,
+        0.33959602467477434
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00069",
+      "rgb": "posed_images/00069.jpg",
+      "view_direction": [
+        -0.7686686866640228,
+        -0.5402764263956353,
+        0.3424176298372618
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00070",
+      "rgb": "posed_images/00070.jpg",
+      "view_direction": [
+        -0.767831924826632,
+        -0.5415369296692666,
+        0.34230379638767233
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00071",
+      "rgb": "posed_images/00071.jpg",
+      "view_direction": [
+        -0.7668787074604472,
+        -0.540804629399189,
+        0.34558269757642607
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00072",
+      "rgb": "posed_images/00072.jpg",
+      "view_direction": [
+        -0.7673696138704743,
+        -0.539726921512629,
+        0.3461773041416487
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00073",
+      "rgb": "posed_images/00073.jpg",
+      "view_direction": [
+        -0.7667826662077899,
+        -0.5405616494010281,
+        0.34617545551369316
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00074",
+      "rgb": "posed_images/00074.jpg",
+      "view_direction": [
+        -0.768238230841386,
+        -0.5382702519381836,
+        0.3465186236728145
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00075",
+      "rgb": "posed_images/00075.jpg",
+      "view_direction": [
+        -0.7686058121878687,
+        -0.5381140793902234,
+        0.34594557813771665
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00076",
+      "rgb": "posed_images/00076.jpg",
+      "view_direction": [
+        -0.7764955580615757,
+        -0.5339106541612759,
+        0.3346551384391412
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00077",
+      "rgb": "posed_images/00077.jpg",
+      "view_direction": [
+        -0.7766637160762425,
+        -0.5318653332645673,
+        0.3375096137919818
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00078",
+      "rgb": "posed_images/00078.jpg",
+      "view_direction": [
+        -0.7800305870859756,
+        -0.5278626819785046,
+        0.33602570167290513
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00079",
+      "rgb": "posed_images/00079.jpg",
+      "view_direction": [
+        -0.776954586742389,
+        -0.5303873559218617,
+        0.33916194187759324
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00080",
+      "rgb": "posed_images/00080.jpg",
+      "view_direction": [
+        -0.7784038619233591,
+        -0.5265526955608383,
+        0.34180357888766366
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00081",
+      "rgb": "posed_images/00081.jpg",
+      "view_direction": [
+        -0.7784945822251453,
+        -0.5276788628493756,
+        0.33985467945592024
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00082",
+      "rgb": "posed_images/00082.jpg",
+      "view_direction": [
+        -0.7802054727048362,
+        -0.5251946242777042,
+        0.33977937987939233
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00083",
+      "rgb": "posed_images/00083.jpg",
+      "view_direction": [
+        -0.7831782098011432,
+        -0.5202737581332578,
+        0.34051007076233875
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00084",
+      "rgb": "posed_images/00084.jpg",
+      "view_direction": [
+        -0.7889583035807676,
+        -0.5076679847510888,
+        0.3461473854729019
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00085",
+      "rgb": "posed_images/00085.jpg",
+      "view_direction": [
+        -0.7895009198618332,
+        -0.5065257275774006,
+        0.3465833014435406
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00086",
+      "rgb": "posed_images/00086.jpg",
+      "view_direction": [
+        -0.7919878905267439,
+        -0.5019589275638113,
+        0.3475520339431015
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00087",
+      "rgb": "posed_images/00087.jpg",
+      "view_direction": [
+        -0.792491690498049,
+        -0.5031271480179662,
+        0.3447027609678403
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00088",
+      "rgb": "posed_images/00088.jpg",
+      "view_direction": [
+        -0.7936063798532501,
+        -0.5037241094953725,
+        0.3412490811259614
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00089",
+      "rgb": "posed_images/00089.jpg",
+      "view_direction": [
+        -0.7933680109655195,
+        -0.5041023162381589,
+        0.3412448592139355
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00090",
+      "rgb": "posed_images/00090.jpg",
+      "view_direction": [
+        -0.7932626700307728,
+        -0.5047295007781746,
+        0.3405619875732816
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00091",
+      "rgb": "posed_images/00091.jpg",
+      "view_direction": [
+        -0.7939822933072759,
+        -0.5060427831007592,
+        0.3369166359593376
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00092",
+      "rgb": "posed_images/00092.jpg",
+      "view_direction": [
+        -0.7972327591693731,
+        -0.5056467902341076,
+        0.3297593838439365
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00093",
+      "rgb": "posed_images/00093.jpg",
+      "view_direction": [
+        -0.8047033627852008,
+        -0.49548527087848143,
+        0.3270272836701356
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00094",
+      "rgb": "posed_images/00094.jpg",
+      "view_direction": [
+        -0.8273859570290562,
+        -0.46761922903206615,
+        0.31107030515716044
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00095",
+      "rgb": "posed_images/00095.jpg",
+      "view_direction": [
+        -0.83824180845076,
+        -0.44882373481182614,
+        0.3096900476843954
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00096",
+      "rgb": "posed_images/00096.jpg",
+      "view_direction": [
+        -0.8495225924868374,
+        -0.43700737868919404,
+        0.29552650613040127
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00097",
+      "rgb": "posed_images/00097.jpg",
+      "view_direction": [
+        -0.8509261164615212,
+        -0.4352770617173035,
+        0.2940384734460176
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00098",
+      "rgb": "posed_images/00098.jpg",
+      "view_direction": [
+        -0.8525921218507697,
+        -0.43497260452251474,
+        0.2896299485082687
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00099",
+      "rgb": "posed_images/00099.jpg",
+      "view_direction": [
+        -0.8557149573339954,
+        -0.42602306862702194,
+        0.29369415518953373
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00100",
+      "rgb": "posed_images/00100.jpg",
+      "view_direction": [
+        -0.8572848741220015,
+        -0.42245513212760655,
+        0.2942691046315776
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00102",
+      "rgb": "posed_images/00102.jpg",
+      "view_direction": [
+        -0.8624338325297132,
+        -0.42058039374729034,
+        0.28163809561826847
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00103",
+      "rgb": "posed_images/00103.jpg",
+      "view_direction": [
+        -0.8722035598656088,
+        -0.40377115633684096,
+        0.27609745284621817
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00104",
+      "rgb": "posed_images/00104.jpg",
+      "view_direction": [
+        -0.8772252422079647,
+        -0.39641058498280374,
+        0.27080347587645365
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00105",
+      "rgb": "posed_images/00105.jpg",
+      "view_direction": [
+        -0.8962255281208803,
+        -0.3603648650545608,
+        0.25868313972630175
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00106",
+      "rgb": "posed_images/00106.jpg",
+      "view_direction": [
+        -0.9001372936538932,
+        -0.3557869189080693,
+        0.2513334854478168
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00107",
+      "rgb": "posed_images/00107.jpg",
+      "view_direction": [
+        -0.9027452133527073,
+        -0.35064684533822776,
+        0.2491944413969217
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00108",
+      "rgb": "posed_images/00108.jpg",
+      "view_direction": [
+        -0.9063964834113654,
+        -0.34656349503211376,
+        0.2415350052697051
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00109",
+      "rgb": "posed_images/00109.jpg",
+      "view_direction": [
+        -0.9084044095273481,
+        -0.34539807745573753,
+        0.2355877688700121
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00110",
+      "rgb": "posed_images/00110.jpg",
+      "view_direction": [
+        -0.9087257400980375,
+        -0.3468540084744261,
+        0.23218489634017261
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00111",
+      "rgb": "posed_images/00111.jpg",
+      "view_direction": [
+        -0.9085704260107067,
+        -0.3466322554384508,
+        0.2331219862397698
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00112",
+      "rgb": "posed_images/00112.jpg",
+      "view_direction": [
+        -0.9100803434366292,
+        -0.34561810497958656,
+        0.22869607342625398
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00113",
+      "rgb": "posed_images/00113.jpg",
+      "view_direction": [
+        -0.9307225582667488,
+        -0.301527218724217,
+        0.20697066435086003
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00114",
+      "rgb": "posed_images/00114.jpg",
+      "view_direction": [
+        -0.9313913749450551,
+        -0.29935121077594756,
+        0.2071206394469988
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00115",
+      "rgb": "posed_images/00115.jpg",
+      "view_direction": [
+        -0.9353760316251774,
+        -0.2916664304262235,
+        0.20000593197093056
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00116",
+      "rgb": "posed_images/00116.jpg",
+      "view_direction": [
+        -0.936898199219221,
+        -0.28810467048879457,
+        0.19803399491583235
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00117",
+      "rgb": "posed_images/00117.jpg",
+      "view_direction": [
+        -0.9400068582378716,
+        -0.28690001705741686,
+        0.18459546765351498
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00118",
+      "rgb": "posed_images/00118.jpg",
+      "view_direction": [
+        -0.9407341399688659,
+        -0.28763319995060016,
+        0.17968422352342625
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00119",
+      "rgb": "posed_images/00119.jpg",
+      "view_direction": [
+        -0.9402566189572588,
+        -0.2913226865469712,
+        0.17620608051403744
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00120",
+      "rgb": "posed_images/00120.jpg",
+      "view_direction": [
+        -0.9401367345670681,
+        -0.29219625018162143,
+        0.17539746776213624
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00121",
+      "rgb": "posed_images/00121.jpg",
+      "view_direction": [
+        -0.9392626224142151,
+        -0.295304484305908,
+        0.17487420531454392
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00122",
+      "rgb": "posed_images/00122.jpg",
+      "view_direction": [
+        -0.9386482070375872,
+        -0.29969595436834445,
+        0.17065133565363683
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00123",
+      "rgb": "posed_images/00123.jpg",
+      "view_direction": [
+        -0.9388300449222019,
+        -0.29925717214547565,
+        0.17042092497950306
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00124",
+      "rgb": "posed_images/00124.jpg",
+      "view_direction": [
+        -0.9324680727570436,
+        -0.3189818531772482,
+        0.16956966306616658
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00125",
+      "rgb": "posed_images/00125.jpg",
+      "view_direction": [
+        -0.931472154323031,
+        -0.32176200956502443,
+        0.16979056193289707
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00126",
+      "rgb": "posed_images/00126.jpg",
+      "view_direction": [
+        -0.9300066905808548,
+        -0.3257146748365381,
+        0.17028654107408003
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00127",
+      "rgb": "posed_images/00127.jpg",
+      "view_direction": [
+        -0.9290623236956441,
+        -0.3283189880235543,
+        0.17044013844291322
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00128",
+      "rgb": "posed_images/00128.jpg",
+      "view_direction": [
+        -0.9281658680673537,
+        -0.33125906611627587,
+        0.16963358296796247
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00129",
+      "rgb": "posed_images/00129.jpg",
+      "view_direction": [
+        -0.9267307647674948,
+        -0.33564979197688594,
+        0.16884699221285385
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00130",
+      "rgb": "posed_images/00130.jpg",
+      "view_direction": [
+        -0.9222697261918089,
+        -0.34875990016906083,
+        0.16668858444462287
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00131",
+      "rgb": "posed_images/00131.jpg",
+      "view_direction": [
+        -0.9175270146259926,
+        -0.36231673804503195,
+        0.1639230269483858
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00132",
+      "rgb": "posed_images/00132.jpg",
+      "view_direction": [
+        -0.9137812047147753,
+        -0.3727385338494018,
+        0.1614617456049945
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00133",
+      "rgb": "posed_images/00133.jpg",
+      "view_direction": [
+        -0.9066101536495548,
+        -0.38997536565617696,
+        0.161174574548412
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00134",
+      "rgb": "posed_images/00134.jpg",
+      "view_direction": [
+        -0.9027975768848732,
+        -0.39811165099023643,
+        0.1626765149510826
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00135",
+      "rgb": "posed_images/00135.jpg",
+      "view_direction": [
+        -0.8771321426890977,
+        -0.4535326804711554,
+        0.1579471810646883
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00136",
+      "rgb": "posed_images/00136.jpg",
+      "view_direction": [
+        -0.8713621830792416,
+        -0.4636917348099905,
+        0.16036807964267613
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00137",
+      "rgb": "posed_images/00137.jpg",
+      "view_direction": [
+        -0.8687994688784461,
+        -0.4687176963212934,
+        0.15965965060650064
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00138",
+      "rgb": "posed_images/00138.jpg",
+      "view_direction": [
+        -0.8669642519294336,
+        -0.4727698382988753,
+        0.15767582525958979
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00139",
+      "rgb": "posed_images/00139.jpg",
+      "view_direction": [
+        -0.8657550830246883,
+        -0.4750670685762868,
+        0.1574147914627103
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00140",
+      "rgb": "posed_images/00140.jpg",
+      "view_direction": [
+        -0.8626288655417075,
+        -0.48174201486135937,
+        0.1542597531812639
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00141",
+      "rgb": "posed_images/00141.jpg",
+      "view_direction": [
+        -0.8517880240549254,
+        -0.503121166930363,
+        0.14603511037841396
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00142",
+      "rgb": "posed_images/00142.jpg",
+      "view_direction": [
+        -0.8451473720879704,
+        -0.5145045189836673,
+        0.14495178301139547
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00143",
+      "rgb": "posed_images/00143.jpg",
+      "view_direction": [
+        -0.8398096653810643,
+        -0.5227899965208164,
+        0.14632274420031138
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00144",
+      "rgb": "posed_images/00144.jpg",
+      "view_direction": [
+        -0.8383402787397303,
+        -0.525116940683642,
+        0.1464164459671244
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00145",
+      "rgb": "posed_images/00145.jpg",
+      "view_direction": [
+        -0.8352022468736254,
+        -0.5299590518016952,
+        0.14690340442173533
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00146",
+      "rgb": "posed_images/00146.jpg",
+      "view_direction": [
+        -0.81366462433168,
+        -0.5619920771512288,
+        0.14871040424406512
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00147",
+      "rgb": "posed_images/00147.jpg",
+      "view_direction": [
+        -0.801643566384181,
+        -0.579484389318775,
+        0.146851745003925
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00148",
+      "rgb": "posed_images/00148.jpg",
+      "view_direction": [
+        -0.8007112354600966,
+        -0.5811216375605086,
+        0.14546188424105644
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00149",
+      "rgb": "posed_images/00149.jpg",
+      "view_direction": [
+        -0.7980552104567495,
+        -0.5838885759548553,
+        0.14893626802174206
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00150",
+      "rgb": "posed_images/00150.jpg",
+      "view_direction": [
+        -0.7971631156480492,
+        -0.5853715161598357,
+        0.14788899593624363
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00151",
+      "rgb": "posed_images/00151.jpg",
+      "view_direction": [
+        -0.7969958962463844,
+        -0.585670327294735,
+        0.1476069412084012
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00152",
+      "rgb": "posed_images/00152.jpg",
+      "view_direction": [
+        -0.795827957308515,
+        -0.5868506665607741,
+        0.14921178748119016
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00153",
+      "rgb": "posed_images/00153.jpg",
+      "view_direction": [
+        -0.795619572613465,
+        -0.5871099901353003,
+        0.14930289735197563
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00154",
+      "rgb": "posed_images/00154.jpg",
+      "view_direction": [
+        -0.795628046812822,
+        -0.5868526380970032,
+        0.1502664043737053
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00155",
+      "rgb": "posed_images/00155.jpg",
+      "view_direction": [
+        -0.7964095271705307,
+        -0.5852256345008474,
+        0.1524559666103375
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00156",
+      "rgb": "posed_images/00156.jpg",
+      "view_direction": [
+        -0.8017137009570162,
+        -0.5776351324132102,
+        0.15359946451656983
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00157",
+      "rgb": "posed_images/00157.jpg",
+      "view_direction": [
+        -0.8049556358518484,
+        -0.5721015766653337,
+        0.1573092822670863
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00158",
+      "rgb": "posed_images/00158.jpg",
+      "view_direction": [
+        -0.8112596382524953,
+        -0.5629009283981541,
+        0.15811497130546226
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00159",
+      "rgb": "posed_images/00159.jpg",
+      "view_direction": [
+        -0.8150996166102787,
+        -0.5564882883300498,
+        0.16103850456728602
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00160",
+      "rgb": "posed_images/00160.jpg",
+      "view_direction": [
+        -0.8196591244700353,
+        -0.5494137891293213,
+        0.1621832543377297
+      ],
+      "in_frustum_vertices": 657,
+      "approx_unoccluded_vertices": 423,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 234
+    },
+    {
+      "frame_id": "00161",
+      "rgb": "posed_images/00161.jpg",
+      "view_direction": [
+        -0.8258075022858545,
+        -0.5398988927670013,
+        0.1629452507972061
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 578,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 189
+    },
+    {
+      "frame_id": "00162",
+      "rgb": "posed_images/00162.jpg",
+      "view_direction": [
+        -0.8285694000373588,
+        -0.5352465398822422,
+        0.16426774140353453
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 576,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 192
+    },
+    {
+      "frame_id": "00163",
+      "rgb": "posed_images/00163.jpg",
+      "view_direction": [
+        -0.8273904056102225,
+        -0.5369396721639644,
+        0.16468425899461697
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 579,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 189
+    },
+    {
+      "frame_id": "00164",
+      "rgb": "posed_images/00164.jpg",
+      "view_direction": [
+        -0.8274859284181757,
+        -0.5366211151867517,
+        0.1652416926978074
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 574,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 194
+    },
+    {
+      "frame_id": "00165",
+      "rgb": "posed_images/00165.jpg",
+      "view_direction": [
+        -0.8270741407520104,
+        -0.5371398647291394,
+        0.16561742486249892
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 577,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 190
+    },
+    {
+      "frame_id": "00166",
+      "rgb": "posed_images/00166.jpg",
+      "view_direction": [
+        -0.8263206634684808,
+        -0.5362485637936951,
+        0.17213842962630105
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 590,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 177
+    },
+    {
+      "frame_id": "00167",
+      "rgb": "posed_images/00167.jpg",
+      "view_direction": [
+        -0.8264424773422667,
+        -0.5360574975866058,
+        0.17214874651173945
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 586,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 183
+    },
+    {
+      "frame_id": "00168",
+      "rgb": "posed_images/00168.jpg",
+      "view_direction": [
+        -0.8266233515102958,
+        -0.5359253287691733,
+        0.1716912249404126
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 585,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 181
+    },
+    {
+      "frame_id": "00169",
+      "rgb": "posed_images/00169.jpg",
+      "view_direction": [
+        -0.8271404845288234,
+        -0.5351507321487122,
+        0.1716167612272196
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 587,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 180
+    },
+    {
+      "frame_id": "00170",
+      "rgb": "posed_images/00170.jpg",
+      "view_direction": [
+        -0.8276955830801752,
+        -0.5349162112115867,
+        0.16966045129201424
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 590,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 178
+    },
+    {
+      "frame_id": "00171",
+      "rgb": "posed_images/00171.jpg",
+      "view_direction": [
+        -0.8283429599991491,
+        -0.533986702896856,
+        0.16942886929089968
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 593,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 175
+    },
+    {
+      "frame_id": "00172",
+      "rgb": "posed_images/00172.jpg",
+      "view_direction": [
+        -0.8291400805730386,
+        -0.5327975420158007,
+        0.16927346516585598
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 601,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 167
+    },
+    {
+      "frame_id": "00173",
+      "rgb": "posed_images/00173.jpg",
+      "view_direction": [
+        -0.8302011941539419,
+        -0.5319534502674015,
+        0.1667078401694894
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 600,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 166
+    },
+    {
+      "frame_id": "00174",
+      "rgb": "posed_images/00174.jpg",
+      "view_direction": [
+        -0.830566686897634,
+        -0.5317118086863839,
+        0.1656548554052727
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 596,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 172
+    },
+    {
+      "frame_id": "00175",
+      "rgb": "posed_images/00175.jpg",
+      "view_direction": [
+        -0.8333759807202406,
+        -0.5283657371604609,
+        0.16221628325621296
+      ],
+      "in_frustum_vertices": 7,
+      "approx_unoccluded_vertices": 1,
+      "unknown_scan_depth_vertices": 1,
+      "scan_blocked_front_vertices": 6
+    },
+    {
+      "frame_id": "00176",
+      "rgb": "posed_images/00176.jpg",
+      "view_direction": [
+        -0.8340195472617181,
+        -0.5275276255706189,
+        0.16163538921035733
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00177",
+      "rgb": "posed_images/00177.jpg",
+      "view_direction": [
+        -0.8355285914029289,
+        -0.5257200535745375,
+        0.15971974899123428
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00178",
+      "rgb": "posed_images/00178.jpg",
+      "view_direction": [
+        -0.8364673249804266,
+        -0.5245069556895308,
+        0.1587919005283022
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00179",
+      "rgb": "posed_images/00179.jpg",
+      "view_direction": [
+        -0.83691129333873,
+        -0.5235794252546817,
+        0.15951198240907014
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00180",
+      "rgb": "posed_images/00180.jpg",
+      "view_direction": [
+        -0.8368831509569822,
+        -0.523616368292871,
+        0.15953836685919046
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00181",
+      "rgb": "posed_images/00181.jpg",
+      "view_direction": [
+        -0.8369396044064067,
+        -0.5234876126237896,
+        0.15966470494599833
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00182",
+      "rgb": "posed_images/00182.jpg",
+      "view_direction": [
+        -0.836978851093806,
+        -0.523477156058468,
+        0.1594931657050878
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00183",
+      "rgb": "posed_images/00183.jpg",
+      "view_direction": [
+        -0.8374430572742239,
+        -0.5224612744474076,
+        0.16038498223334854
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00184",
+      "rgb": "posed_images/00184.jpg",
+      "view_direction": [
+        -0.837288246683775,
+        -0.5227101061097055,
+        0.16038247078777126
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00185",
+      "rgb": "posed_images/00185.jpg",
+      "view_direction": [
+        -0.8376507173992304,
+        -0.5227447021791308,
+        0.15836430148302535
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00186",
+      "rgb": "posed_images/00186.jpg",
+      "view_direction": [
+        -0.8376920047087568,
+        -0.5228773547970114,
+        0.1577066171329044
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00187",
+      "rgb": "posed_images/00187.jpg",
+      "view_direction": [
+        -0.8375401202940691,
+        -0.523231033015098,
+        0.15733986458539218
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00188",
+      "rgb": "posed_images/00188.jpg",
+      "view_direction": [
+        -0.8366124206576248,
+        -0.5262212171863252,
+        0.152219867902754
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00189",
+      "rgb": "posed_images/00189.jpg",
+      "view_direction": [
+        -0.8363504953027976,
+        -0.52671154404118,
+        0.1519631481001931
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00190",
+      "rgb": "posed_images/00190.jpg",
+      "view_direction": [
+        -0.836203670057663,
+        -0.5271463070334793,
+        0.15126200171576354
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00191",
+      "rgb": "posed_images/00191.jpg",
+      "view_direction": [
+        -0.8370938847109605,
+        -0.5259932804094233,
+        0.15034925055898032
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00192",
+      "rgb": "posed_images/00192.jpg",
+      "view_direction": [
+        -0.8390202515364181,
+        -0.5227758506810835,
+        0.15083244828761205
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00193",
+      "rgb": "posed_images/00193.jpg",
+      "view_direction": [
+        -0.8396345137991655,
+        -0.5218452547822471,
+        0.15063669306809135
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00194",
+      "rgb": "posed_images/00194.jpg",
+      "view_direction": [
+        -0.8422264066572805,
+        -0.5175399571949725,
+        0.15102010672685645
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00195",
+      "rgb": "posed_images/00195.jpg",
+      "view_direction": [
+        -0.8521625851907788,
+        -0.5005260997567322,
+        0.1526189760917104
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00196",
+      "rgb": "posed_images/00196.jpg",
+      "view_direction": [
+        -0.85509915121703,
+        -0.4950715453144247,
+        0.153979240834284
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00197",
+      "rgb": "posed_images/00197.jpg",
+      "view_direction": [
+        -0.8618933754357833,
+        -0.4828992017103199,
+        0.15475196401806232
+      ],
+      "in_frustum_vertices": 73,
+      "approx_unoccluded_vertices": 1,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 72
+    },
+    {
+      "frame_id": "00198",
+      "rgb": "posed_images/00198.jpg",
+      "view_direction": [
+        -0.8666568935159897,
+        -0.47233550057572227,
+        0.16063935948918753
+      ],
+      "in_frustum_vertices": 374,
+      "approx_unoccluded_vertices": 229,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 144
+    },
+    {
+      "frame_id": "00199",
+      "rgb": "posed_images/00199.jpg",
+      "view_direction": [
+        -0.8681425489358244,
+        -0.46807277890441673,
+        0.16503450662181723
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 606,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 163
+    },
+    {
+      "frame_id": "00200",
+      "rgb": "posed_images/00200.jpg",
+      "view_direction": [
+        -0.8693436952337755,
+        -0.4653639539198276,
+        0.16636685351772712
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 608,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 161
+    },
+    {
+      "frame_id": "00201",
+      "rgb": "posed_images/00201.jpg",
+      "view_direction": [
+        -0.8696440722423511,
+        -0.4643219224577778,
+        0.16770313037881446
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 603,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 166
+    },
+    {
+      "frame_id": "00202",
+      "rgb": "posed_images/00202.jpg",
+      "view_direction": [
+        -0.8708795747549205,
+        -0.46104836360274976,
+        0.1703031787545834
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 594,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 174
+    },
+    {
+      "frame_id": "00203",
+      "rgb": "posed_images/00203.jpg",
+      "view_direction": [
+        -0.8767988727765528,
+        -0.44892109934284036,
+        0.17231826154700505
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 592,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 177
+    },
+    {
+      "frame_id": "00204",
+      "rgb": "posed_images/00204.jpg",
+      "view_direction": [
+        -0.8824340906556707,
+        -0.43702317751367226,
+        0.17412873962833597
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 582,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 187
+    },
+    {
+      "frame_id": "00205",
+      "rgb": "posed_images/00205.jpg",
+      "view_direction": [
+        -0.8834161283221179,
+        -0.4350653216341441,
+        0.17405203282851442
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 583,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 184
+    },
+    {
+      "frame_id": "00206",
+      "rgb": "posed_images/00206.jpg",
+      "view_direction": [
+        -0.8851819316963139,
+        -0.42955134594714617,
+        0.1787137067865181
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 579,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 190
+    },
+    {
+      "frame_id": "00207",
+      "rgb": "posed_images/00207.jpg",
+      "view_direction": [
+        -0.8855214322808853,
+        -0.4309813081842437,
+        0.17351341437193735
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 581,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 187
+    },
+    {
+      "frame_id": "00208",
+      "rgb": "posed_images/00208.jpg",
+      "view_direction": [
+        -0.8876867269711302,
+        -0.4274109522542432,
+        0.17126632083513513
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 582,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 186
+    },
+    {
+      "frame_id": "00209",
+      "rgb": "posed_images/00209.jpg",
+      "view_direction": [
+        -0.8883636155494506,
+        -0.4259443279263232,
+        0.17141037330132863
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 582,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 186
+    },
+    {
+      "frame_id": "00210",
+      "rgb": "posed_images/00210.jpg",
+      "view_direction": [
+        -0.8899122730215081,
+        -0.42209303087787453,
+        0.17289771429958953
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 579,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 188
+    },
+    {
+      "frame_id": "00211",
+      "rgb": "posed_images/00211.jpg",
+      "view_direction": [
+        -0.8904610007525989,
+        -0.42068115432691333,
+        0.17351245641986526
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 580,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 188
+    },
+    {
+      "frame_id": "00212",
+      "rgb": "posed_images/00212.jpg",
+      "view_direction": [
+        -0.8921877876675876,
+        -0.41711998871854,
+        0.1732393331442392
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 574,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 195
+    },
+    {
+      "frame_id": "00213",
+      "rgb": "posed_images/00213.jpg",
+      "view_direction": [
+        -0.8959866120222783,
+        -0.404881578078081,
+        0.18242504984196226
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 563,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 204
+    },
+    {
+      "frame_id": "00214",
+      "rgb": "posed_images/00214.jpg",
+      "view_direction": [
+        -0.8967264305845943,
+        -0.4025945089917396,
+        0.1838460497827271
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 565,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 200
+    },
+    {
+      "frame_id": "00215",
+      "rgb": "posed_images/00215.jpg",
+      "view_direction": [
+        -0.8987883133520774,
+        -0.39443897689046337,
+        0.19130462956063643
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 572,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 196
+    },
+    {
+      "frame_id": "00216",
+      "rgb": "posed_images/00216.jpg",
+      "view_direction": [
+        -0.9001329910256555,
+        -0.39048768505716824,
+        0.19308020687243163
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 567,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 201
+    },
+    {
+      "frame_id": "00217",
+      "rgb": "posed_images/00217.jpg",
+      "view_direction": [
+        -0.8959024520339283,
+        -0.3978421584171866,
+        0.19768766634656001
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 565,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 203
+    },
+    {
+      "frame_id": "00218",
+      "rgb": "posed_images/00218.jpg",
+      "view_direction": [
+        -0.8955740443712662,
+        -0.39876224634087537,
+        0.19732156988447155
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 569,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 198
+    },
+    {
+      "frame_id": "00219",
+      "rgb": "posed_images/00219.jpg",
+      "view_direction": [
+        -0.890230513812344,
+        -0.406334465695509,
+        0.20586873066436095
+      ],
+      "in_frustum_vertices": 766,
+      "approx_unoccluded_vertices": 576,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 190
+    },
+    {
+      "frame_id": "00220",
+      "rgb": "posed_images/00220.jpg",
+      "view_direction": [
+        -0.8884871686427739,
+        -0.4087611036157059,
+        0.20857830982155676
+      ],
+      "in_frustum_vertices": 675,
+      "approx_unoccluded_vertices": 589,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 85
+    },
+    {
+      "frame_id": "00221",
+      "rgb": "posed_images/00221.jpg",
+      "view_direction": [
+        -0.8879355960618615,
+        -0.4100040593180263,
+        0.20848752621921332
+      ],
+      "in_frustum_vertices": 651,
+      "approx_unoccluded_vertices": 583,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 67
+    },
+    {
+      "frame_id": "00222",
+      "rgb": "posed_images/00222.jpg",
+      "view_direction": [
+        -0.8869410061604861,
+        -0.41170765427411693,
+        0.20936202856088484
+      ],
+      "in_frustum_vertices": 648,
+      "approx_unoccluded_vertices": 585,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 62
+    },
+    {
+      "frame_id": "00223",
+      "rgb": "posed_images/00223.jpg",
+      "view_direction": [
+        -0.8837332163571651,
+        -0.4158127951499729,
+        0.21474478269933925
+      ],
+      "in_frustum_vertices": 587,
+      "approx_unoccluded_vertices": 551,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 36
+    },
+    {
+      "frame_id": "00224",
+      "rgb": "posed_images/00224.jpg",
+      "view_direction": [
+        -0.8830406882857865,
+        -0.41763221370223585,
+        0.21406185300032898
+      ],
+      "in_frustum_vertices": 500,
+      "approx_unoccluded_vertices": 472,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 28
+    },
+    {
+      "frame_id": "00225",
+      "rgb": "posed_images/00225.jpg",
+      "view_direction": [
+        -0.8787680646201385,
+        -0.4273690471761933,
+        0.2124203053370576
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00226",
+      "rgb": "posed_images/00226.jpg",
+      "view_direction": [
+        -0.8713577417389475,
+        -0.4392907361448557,
+        0.218539092724648
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00227",
+      "rgb": "posed_images/00227.jpg",
+      "view_direction": [
+        -0.8688112701348439,
+        -0.443968106447831,
+        0.21922430828675588
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00228",
+      "rgb": "posed_images/00228.jpg",
+      "view_direction": [
+        -0.8590341614813566,
+        -0.4592656432787669,
+        0.2261313297881632
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00229",
+      "rgb": "posed_images/00229.jpg",
+      "view_direction": [
+        -0.8574671537600687,
+        -0.4617414253723559,
+        0.22703509930782062
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00230",
+      "rgb": "posed_images/00230.jpg",
+      "view_direction": [
+        -0.8561888672640532,
+        -0.4638306538303092,
+        0.22759997394649523
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00231",
+      "rgb": "posed_images/00231.jpg",
+      "view_direction": [
+        -0.8553168365367613,
+        -0.4652004476275665,
+        0.22808255668476485
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00232",
+      "rgb": "posed_images/00232.jpg",
+      "view_direction": [
+        -0.8518526538517311,
+        -0.471551737814767,
+        0.2280044181362198
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00233",
+      "rgb": "posed_images/00233.jpg",
+      "view_direction": [
+        -0.8353602693995118,
+        -0.4968212111579571,
+        0.2352486013822732
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00234",
+      "rgb": "posed_images/00234.jpg",
+      "view_direction": [
+        -0.8333057746530103,
+        -0.4997431023189937,
+        0.23634364305928376
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00235",
+      "rgb": "posed_images/00235.jpg",
+      "view_direction": [
+        -0.8321864052419073,
+        -0.5014312419796345,
+        0.23671184274833637
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00236",
+      "rgb": "posed_images/00236.jpg",
+      "view_direction": [
+        -0.8332233628793995,
+        -0.49871409751157525,
+        0.23879505123674521
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00237",
+      "rgb": "posed_images/00237.jpg",
+      "view_direction": [
+        -0.8333892006341392,
+        -0.49746181355541097,
+        0.24081981712590023
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00238",
+      "rgb": "posed_images/00238.jpg",
+      "view_direction": [
+        -0.8346247789837579,
+        -0.4935577097665811,
+        0.244545017197817
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00239",
+      "rgb": "posed_images/00239.jpg",
+      "view_direction": [
+        -0.8362775496540668,
+        -0.4898723201193698,
+        0.24630259829213233
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00240",
+      "rgb": "posed_images/00240.jpg",
+      "view_direction": [
+        -0.8437181346965171,
+        -0.4728031795326656,
+        0.25415912851603734
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00241",
+      "rgb": "posed_images/00241.jpg",
+      "view_direction": [
+        -0.8434095351847869,
+        -0.47435466121637265,
+        0.2522855749774097
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00242",
+      "rgb": "posed_images/00242.jpg",
+      "view_direction": [
+        -0.8449760323158789,
+        -0.470524926766256,
+        0.2542081786711911
+      ],
+      "in_frustum_vertices": 0,
+      "approx_unoccluded_vertices": 0,
+      "unknown_scan_depth_vertices": 0,
+      "scan_blocked_front_vertices": 0
+    },
+    {
+      "frame_id": "00243",
+      "rgb": "posed_images/00243.jpg",
+      "view_direction": [
+        -0.8488789857879723,
+        -0.4592029522544283,
+        0.2617959436820992
+      ],
+      "in_frustum_vertices": 342,
+      "approx_unoccluded_vertices": 329,
+      "unknown_scan_depth_vertices": 6,
+      "scan_blocked_front_vertices": 13
+    },
+    {
+      "frame_id": "00244",
+      "rgb": "posed_images/00244.jpg",
+      "view_direction": [
+        -0.8472809733474534,
+        -0.45888811511840305,
+        0.267463361989023
+      ],
+      "in_frustum_vertices": 647,
+      "approx_unoccluded_vertices": 616,
+      "unknown_scan_depth_vertices": 6,
+      "scan_blocked_front_vertices": 29
+    },
+    {
+      "frame_id": "00245",
+      "rgb": "posed_images/00245.jpg",
+      "view_direction": [
+        -0.850277044780399,
+        -0.44009729253030905,
+        0.2886924318838355
+      ],
+      "in_frustum_vertices": 758,
+      "approx_unoccluded_vertices": 624,
+      "unknown_scan_depth_vertices": 12,
+      "scan_blocked_front_vertices": 132
+    },
+    {
+      "frame_id": "00246",
+      "rgb": "posed_images/00246.jpg",
+      "view_direction": [
+        -0.8499690936363837,
+        -0.43935734656213965,
+        0.2907192148531299
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 629,
+      "unknown_scan_depth_vertices": 13,
+      "scan_blocked_front_vertices": 138
+    },
+    {
+      "frame_id": "00247",
+      "rgb": "posed_images/00247.jpg",
+      "view_direction": [
+        -0.84608849764194,
+        -0.4393044315224676,
+        0.3019037439362523
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 639,
+      "unknown_scan_depth_vertices": 17,
+      "scan_blocked_front_vertices": 127
+    },
+    {
+      "frame_id": "00248",
+      "rgb": "posed_images/00248.jpg",
+      "view_direction": [
+        -0.8456106841985527,
+        -0.4365242944649846,
+        0.3072281092463761
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 626,
+      "unknown_scan_depth_vertices": 12,
+      "scan_blocked_front_vertices": 139
+    },
+    {
+      "frame_id": "00249",
+      "rgb": "posed_images/00249.jpg",
+      "view_direction": [
+        -0.8415462477754952,
+        -0.42837355675924005,
+        0.3290835892663485
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 632,
+      "unknown_scan_depth_vertices": 17,
+      "scan_blocked_front_vertices": 134
+    },
+    {
+      "frame_id": "00250",
+      "rgb": "posed_images/00250.jpg",
+      "view_direction": [
+        -0.8373919535908987,
+        -0.4254629471214456,
+        0.3431559364020271
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 628,
+      "unknown_scan_depth_vertices": 10,
+      "scan_blocked_front_vertices": 138
+    },
+    {
+      "frame_id": "00251",
+      "rgb": "posed_images/00251.jpg",
+      "view_direction": [
+        -0.8253131792220723,
+        -0.428572631946618,
+        0.36767329974952545
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 645,
+      "unknown_scan_depth_vertices": 23,
+      "scan_blocked_front_vertices": 121
+    },
+    {
+      "frame_id": "00252",
+      "rgb": "posed_images/00252.jpg",
+      "view_direction": [
+        -0.8132607784963354,
+        -0.44027312528349294,
+        0.38048190668235504
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 661,
+      "unknown_scan_depth_vertices": 33,
+      "scan_blocked_front_vertices": 106
+    },
+    {
+      "frame_id": "00253",
+      "rgb": "posed_images/00253.jpg",
+      "view_direction": [
+        -0.8105011149478262,
+        -0.4432773080007063,
+        0.38287487627157996
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 659,
+      "unknown_scan_depth_vertices": 32,
+      "scan_blocked_front_vertices": 107
+    },
+    {
+      "frame_id": "00254",
+      "rgb": "posed_images/00254.jpg",
+      "view_direction": [
+        -0.7983479829501379,
+        -0.45798860600309815,
+        0.3910075893007518
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 653,
+      "unknown_scan_depth_vertices": 28,
+      "scan_blocked_front_vertices": 114
+    },
+    {
+      "frame_id": "00255",
+      "rgb": "posed_images/00255.jpg",
+      "view_direction": [
+        -0.7526362684905787,
+        -0.49954960243988633,
+        0.4289392055463442
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 677,
+      "unknown_scan_depth_vertices": 58,
+      "scan_blocked_front_vertices": 91
+    },
+    {
+      "frame_id": "00256",
+      "rgb": "posed_images/00256.jpg",
+      "view_direction": [
+        -0.7324258196659871,
+        -0.5116862982245943,
+        0.44914312963221276
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 681,
+      "unknown_scan_depth_vertices": 76,
+      "scan_blocked_front_vertices": 88
+    },
+    {
+      "frame_id": "00257",
+      "rgb": "posed_images/00257.jpg",
+      "view_direction": [
+        -0.7177851979007179,
+        -0.5171332542730902,
+        0.46621626633950763
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 663,
+      "unknown_scan_depth_vertices": 66,
+      "scan_blocked_front_vertices": 106
+    },
+    {
+      "frame_id": "00258",
+      "rgb": "posed_images/00258.jpg",
+      "view_direction": [
+        -0.6930341490684224,
+        -0.5274242992785861,
+        0.491454246858749
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 687,
+      "unknown_scan_depth_vertices": 76,
+      "scan_blocked_front_vertices": 82
+    },
+    {
+      "frame_id": "00259",
+      "rgb": "posed_images/00259.jpg",
+      "view_direction": [
+        -0.6652904421403191,
+        -0.5466075160403128,
+        0.5085359879152881
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 682,
+      "unknown_scan_depth_vertices": 95,
+      "scan_blocked_front_vertices": 87
+    },
+    {
+      "frame_id": "00260",
+      "rgb": "posed_images/00260.jpg",
+      "view_direction": [
+        -0.6154938094803342,
+        -0.5861394943555835,
+        0.5268850573398026
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 704,
+      "unknown_scan_depth_vertices": 132,
+      "scan_blocked_front_vertices": 65
+    },
+    {
+      "frame_id": "00261",
+      "rgb": "posed_images/00261.jpg",
+      "view_direction": [
+        -0.55547742624927,
+        -0.6186630000342817,
+        0.5556086044294755
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 697,
+      "unknown_scan_depth_vertices": 133,
+      "scan_blocked_front_vertices": 70
+    },
+    {
+      "frame_id": "00262",
+      "rgb": "posed_images/00262.jpg",
+      "view_direction": [
+        -0.506860051381611,
+        -0.6416182643904023,
+        0.5756899261877687
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 696,
+      "unknown_scan_depth_vertices": 134,
+      "scan_blocked_front_vertices": 72
+    },
+    {
+      "frame_id": "00263",
+      "rgb": "posed_images/00263.jpg",
+      "view_direction": [
+        -0.45035928494947036,
+        -0.6558210503379436,
+        0.6058673653477616
+      ],
+      "in_frustum_vertices": 769,
+      "approx_unoccluded_vertices": 695,
+      "unknown_scan_depth_vertices": 150,
+      "scan_blocked_front_vertices": 74
+    },
+    {
+      "frame_id": "00264",
+      "rgb": "posed_images/00264.jpg",
+      "view_direction": [
+        -0.3823826385372858,
+        -0.6655268049878109,
+        0.6409817388880745
+      ],
+      "in_frustum_vertices": 747,
+      "approx_unoccluded_vertices": 685,
+      "unknown_scan_depth_vertices": 169,
+      "scan_blocked_front_vertices": 62
+    },
+    {
+      "frame_id": "00265",
+      "rgb": "posed_images/00265.jpg",
+      "view_direction": [
+        -0.3565578349329589,
+        -0.6689087205853242,
+        0.6522481382670444
+      ],
+      "in_frustum_vertices": 734,
+      "approx_unoccluded_vertices": 679,
+      "unknown_scan_depth_vertices": 185,
+      "scan_blocked_front_vertices": 55
+    },
+    {
+      "frame_id": "00266",
+      "rgb": "posed_images/00266.jpg",
+      "view_direction": [
+        -0.3180230621605125,
+        -0.6777801758949944,
+        0.6629293816823939
+      ],
+      "in_frustum_vertices": 732,
+      "approx_unoccluded_vertices": 666,
+      "unknown_scan_depth_vertices": 197,
+      "scan_blocked_front_vertices": 66
+    },
+    {
+      "frame_id": "00267",
+      "rgb": "posed_images/00267.jpg",
+      "view_direction": [
+        -0.26427631792504797,
+        -0.6887271589096178,
+        0.6751391918443672
+      ],
+      "in_frustum_vertices": 722,
+      "approx_unoccluded_vertices": 676,
+      "unknown_scan_depth_vertices": 218,
+      "scan_blocked_front_vertices": 46
+    },
+    {
+      "frame_id": "00268",
+      "rgb": "posed_images/00268.jpg",
+      "view_direction": [
+        -0.23346090931058047,
+        -0.6925915267416783,
+        0.6825049310514233
+      ],
+      "in_frustum_vertices": 713,
+      "approx_unoccluded_vertices": 666,
+      "unknown_scan_depth_vertices": 212,
+      "scan_blocked_front_vertices": 47
+    },
+    {
+      "frame_id": "00269",
+      "rgb": "posed_images/00269.jpg",
+      "view_direction": [
+        -0.13436382120454748,
+        -0.7004514134047234,
+        0.7009380721651789
+      ],
+      "in_frustum_vertices": 484,
+      "approx_unoccluded_vertices": 444,
+      "unknown_scan_depth_vertices": 127,
+      "scan_blocked_front_vertices": 40
+    },
+    {
+      "frame_id": "00270",
+      "rgb": "posed_images/00270.jpg",
+      "view_direction": [
+        -0.0019371233358291128,
+        -0.6726785621270157,
+        0.7399322939350009
+      ],
+      "in_frustum_vertices": 222,
+      "approx_unoccluded_vertices": 187,
+      "unknown_scan_depth_vertices": 64,
+      "scan_blocked_front_vertices": 35
+    },
+    {
+      "frame_id": "00271",
+      "rgb": "posed_images/00271.jpg",
+      "view_direction": [
+        0.074848376474211,
+        -0.6494691708942023,
+        0.7566951279063269
+      ],
+      "in_frustum_vertices": 46,
+      "approx_unoccluded_vertices": 39,
+      "unknown_scan_depth_vertices": 12,
+      "scan_blocked_front_vertices": 7
+    },
+    {
+      "frame_id": "00272",
+      "rgb": "posed_images/00272.jpg",
+      "view_direction": [
+        0.11830481053884982,
+        -0.6427139875855615,
+        0.7569165753008936
+      ],
+      "in_frustum_vertices": 45,
+      "approx_unoccluded_vertices": 40,
+      "unknown_scan_depth_vertices": 15,
+      "scan_blocked_front_vertices": 5
+    },
+    {
+      "frame_id": "00273",
+      "rgb": "posed_images/00273.jpg",
+      "view_direction": [
+        0.1833038445642488,
+        -0.6299624836530172,
+        0.7546833572815077
+      ],
+      "in_frustum_vertices": 54,
+      "approx_unoccluded_vertices": 43,
+      "unknown_scan_depth_vertices": 16,
+      "scan_blocked_front_vertices": 11
+    },
+    {
+      "frame_id": "00274",
+      "rgb": "posed_images/00274.jpg",
+      "view_direction": [
+        0.21564756221945308,
+        -0.6197192374117723,
+        0.7546152633564859
+      ],
+      "in_frustum_vertices": 63,
+      "approx_unoccluded_vertices": 46,
+      "unknown_scan_depth_vertices": 20,
+      "scan_blocked_front_vertices": 17
+    },
+    {
+      "frame_id": "00275",
+      "rgb": "posed_images/00275.jpg",
+      "view_direction": [
+        0.27630745199474693,
+        -0.6072015888229872,
+        0.7449566581372439
+      ],
+      "in_frustum_vertices": 61,
+      "approx_unoccluded_vertices": 46,
+      "unknown_scan_depth_vertices": 19,
+      "scan_blocked_front_vertices": 15
+    },
+    {
+      "frame_id": "00276",
+      "rgb": "posed_images/00276.jpg",
+      "view_direction": [
+        0.3343760411569339,
+        -0.5953456059305139,
+        0.7305862526761955
+      ],
+      "in_frustum_vertices": 51,
+      "approx_unoccluded_vertices": 30,
+      "unknown_scan_depth_vertices": 7,
+      "scan_blocked_front_vertices": 21
+    },
+    {
+      "frame_id": "00277",
+      "rgb": "posed_images/00277.jpg",
+      "view_direction": [
+        0.4187185115926392,
+        -0.5583945649678367,
+        0.7161496476743009
+      ],
+      "in_frustum_vertices": 34,
+      "approx_unoccluded_vertices": 13,
+      "unknown_scan_depth_vertices": 8,
+      "scan_blocked_front_vertices": 20
+    },
+    {
+      "frame_id": "00278",
+      "rgb": "posed_images/00278.jpg",
+      "view_direction": [
+        0.4390867856413918,
+        -0.5268344118806847,
+        0.7277693983216412
+      ],
+      "in_frustum_vertices": 40,
+      "approx_unoccluded_vertices": 20,
+      "unknown_scan_depth_vertices": 10,
+      "scan_blocked_front_vertices": 20
+    },
+    {
+      "frame_id": "00279",
+      "rgb": "posed_images/00279.jpg",
+      "view_direction": [
+        0.44194357982335614,
+        -0.514645254328442,
+        0.7347286127885114
+      ],
+      "in_frustum_vertices": 29,
+      "approx_unoccluded_vertices": 14,
+      "unknown_scan_depth_vertices": 8,
+      "scan_blocked_front_vertices": 15
+    },
+    {
+      "frame_id": "00280",
+      "rgb": "posed_images/00280.jpg",
+      "view_direction": [
+        0.4460821897067561,
+        -0.4979502169929916,
+        0.7436775251566086
+      ],
+      "in_frustum_vertices": 29,
+      "approx_unoccluded_vertices": 10,
+      "unknown_scan_depth_vertices": 9,
+      "scan_blocked_front_vertices": 19
+    },
+    {
+      "frame_id": "00281",
+      "rgb": "posed_images/00281.jpg",
+      "view_direction": [
+        0.4592001812510718,
+        -0.4583146079318201,
+        0.7609749757352634
+      ],
+      "in_frustum_vertices": 19,
+      "approx_unoccluded_vertices": 10,
+      "unknown_scan_depth_vertices": 5,
+      "scan_blocked_front_vertices": 9
+    },
+    {
+      "frame_id": "00282",
+      "rgb": "posed_images/00282.jpg",
+      "view_direction": [
+        0.4630106475253885,
+        -0.45243611590071764,
+        0.7621828529341189
+      ],
+      "in_frustum_vertices": 19,
+      "approx_unoccluded_vertices": 11,
+      "unknown_scan_depth_vertices": 5,
+      "scan_blocked_front_vertices": 8
+    },
+    {
+      "frame_id": "00283",
+      "rgb": "posed_images/00283.jpg",
+      "view_direction": [
+        0.46896073653351994,
+        -0.44662322059089943,
+        0.7619734420693094
+      ],
+      "in_frustum_vertices": 19,
+      "approx_unoccluded_vertices": 11,
+      "unknown_scan_depth_vertices": 6,
+      "scan_blocked_front_vertices": 8
+    },
+    {
+      "frame_id": "00284",
+      "rgb": "posed_images/00284.jpg",
+      "view_direction": [
+        0.48136072517568074,
+        -0.43177889458596624,
+        0.7627967215768982
+      ],
+      "in_frustum_vertices": 19,
+      "approx_unoccluded_vertices": 10,
+      "unknown_scan_depth_vertices": 5,
+      "scan_blocked_front_vertices": 9
+    },
+    {
+      "frame_id": "00285",
+      "rgb": "posed_images/00285.jpg",
+      "view_direction": [
+        0.5076667625757059,
+        -0.4137303768375406,
+        0.7557126659371063
+      ],
+      "in_frustum_vertices": 19,
+      "approx_unoccluded_vertices": 10,
+      "unknown_scan_depth_vertices": 6,
+      "scan_blocked_front_vertices": 9
+    },
+    {
+      "frame_id": "00286",
+      "rgb": "posed_images/00286.jpg",
+      "view_direction": [
+        0.5471116003909936,
+        -0.40194272757396665,
+        0.7342417452501634
+      ],
+      "in_frustum_vertices": 54,
+      "approx_unoccluded_vertices": 37,
+      "unknown_scan_depth_vertices": 30,
+      "scan_blocked_front_vertices": 17
+    },
+    {
+      "frame_id": "00287",
+      "rgb": "posed_images/00287.jpg",
+      "view_direction": [
+        0.5499629403650979,
+        -0.40196914173237447,
+        0.7320939648159341
+      ],
+      "in_frustum_vertices": 58,
+      "approx_unoccluded_vertices": 38,
+      "unknown_scan_depth_vertices": 27,
+      "scan_blocked_front_vertices": 20
+    },
+    {
+      "frame_id": "00288",
+      "rgb": "posed_images/00288.jpg",
+      "view_direction": [
+        0.5512908526415919,
+        -0.4065310161053425,
+        0.7285677241945763
+      ],
+      "in_frustum_vertices": 58,
+      "approx_unoccluded_vertices": 37,
+      "unknown_scan_depth_vertices": 26,
+      "scan_blocked_front_vertices": 21
+    },
+    {
+      "frame_id": "00289",
+      "rgb": "posed_images/00289.jpg",
+      "view_direction": [
+        0.5450518180624155,
+        -0.43454132846831967,
+        0.7170023357561979
+      ],
+      "in_frustum_vertices": 317,
+      "approx_unoccluded_vertices": 265,
+      "unknown_scan_depth_vertices": 79,
+      "scan_blocked_front_vertices": 52
+    },
+    {
+      "frame_id": "00290",
+      "rgb": "posed_images/00290.jpg",
+      "view_direction": [
+        0.5391101615053582,
+        -0.451311723348042,
+        0.7111103726780301
+      ],
+      "in_frustum_vertices": 341,
+      "approx_unoccluded_vertices": 278,
+      "unknown_scan_depth_vertices": 63,
+      "scan_blocked_front_vertices": 63
+    },
+    {
+      "frame_id": "00291",
+      "rgb": "posed_images/00291.jpg",
+      "view_direction": [
+        0.5290593166204145,
+        -0.47023418687441715,
+        0.7063823674127885
+      ],
+      "in_frustum_vertices": 489,
+      "approx_unoccluded_vertices": 425,
+      "unknown_scan_depth_vertices": 60,
+      "scan_blocked_front_vertices": 64
+    },
+    {
+      "frame_id": "00292",
+      "rgb": "posed_images/00292.jpg",
+      "view_direction": [
+        0.5163901036844971,
+        -0.48855967311861787,
+        0.7033140881703875
+      ],
+      "in_frustum_vertices": 499,
+      "approx_unoccluded_vertices": 449,
+      "unknown_scan_depth_vertices": 67,
+      "scan_blocked_front_vertices": 50
+    },
+    {
+      "frame_id": "00293",
+      "rgb": "posed_images/00293.jpg",
+      "view_direction": [
+        0.5136899770558268,
+        -0.4920717043254271,
+        0.7028428311327176
+      ],
+      "in_frustum_vertices": 495,
+      "approx_unoccluded_vertices": 445,
+      "unknown_scan_depth_vertices": 70,
+      "scan_blocked_front_vertices": 50
+    },
+    {
+      "frame_id": "00294",
+      "rgb": "posed_images/00294.jpg",
+      "view_direction": [
+        0.5062278537166779,
+        -0.5018060902484185,
+        0.701372944952257
+      ],
+      "in_frustum_vertices": 476,
+      "approx_unoccluded_vertices": 429,
+      "unknown_scan_depth_vertices": 67,
+      "scan_blocked_front_vertices": 47
+    },
+    {
+      "frame_id": "00295",
+      "rgb": "posed_images/00295.jpg",
+      "view_direction": [
+        0.5005930437595323,
+        -0.5097282440223899,
+        0.6997025952398762
+      ],
+      "in_frustum_vertices": 449,
+      "approx_unoccluded_vertices": 413,
+      "unknown_scan_depth_vertices": 83,
+      "scan_blocked_front_vertices": 36
+    },
+    {
+      "frame_id": "00296",
+      "rgb": "posed_images/00296.jpg",
+      "view_direction": [
+        0.4808569067209763,
+        -0.5271882722537917,
+        0.7006062809144636
+      ],
+      "in_frustum_vertices": 431,
+      "approx_unoccluded_vertices": 393,
+      "unknown_scan_depth_vertices": 75,
+      "scan_blocked_front_vertices": 38
+    },
+    {
+      "frame_id": "00297",
+      "rgb": "posed_images/00297.jpg",
+      "view_direction": [
+        0.44190680617870354,
+        -0.5614231708639811,
+        0.6996587724526655
+      ],
+      "in_frustum_vertices": 447,
+      "approx_unoccluded_vertices": 409,
+      "unknown_scan_depth_vertices": 85,
+      "scan_blocked_front_vertices": 38
+    },
+    {
+      "frame_id": "00298",
+      "rgb": "posed_images/00298.jpg",
+      "view_direction": [
+        0.4207180472533161,
+        -0.5809882714974575,
+        0.69674166883986
+      ],
+      "in_frustum_vertices": 415,
+      "approx_unoccluded_vertices": 375,
+      "unknown_scan_depth_vertices": 83,
+      "scan_blocked_front_vertices": 39
+    },
+    {
+      "frame_id": "00299",
+      "rgb": "posed_images/00299.jpg",
+      "view_direction": [
+        0.4131037758920805,
+        -0.5857169674926611,
+        0.6973384431787097
+      ],
+      "in_frustum_vertices": 413,
+      "approx_unoccluded_vertices": 377,
+      "unknown_scan_depth_vertices": 92,
+      "scan_blocked_front_vertices": 35
+    }
+  ]
+}

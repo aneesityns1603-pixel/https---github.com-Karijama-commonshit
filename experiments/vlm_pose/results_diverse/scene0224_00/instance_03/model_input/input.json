@@ -1,0 +1,167 @@
+{
+  "scene_id": "scene0224_00",
+  "instance_id": 3,
+  "asset_path": "assets/shapenet/02818832/f6fb20673932fe50230e608bf41b643e/models/model_normalized.obj",
+  "cad_local_bounds": [
+    [
+      -0.278454,
+      -0.433424,
+      -0.308248
+    ],
+    [
+      0.292568,
+      0.112197,
+      0.305129
+    ]
+  ],
+  "coordinate_convention": "ScanNet world in metres; camera x right, y down, z forward; column vectors",
+  "protocol": "known GT cameras; GT-assisted view selection; object pose withheld",
+  "views": [
+    {
+      "image": "view_0.jpg",
+      "frame_id": "00022",
+      "K": [
+        [
+          1170.187988,
+          0.0,
+          647.75
+        ],
+        [
+          0.0,
+          1170.187988,
+          483.75
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "camera_to_world": [
+        [
+          -0.66297,
+          0.008295,
+          -0.7486,
+          2.644498
+        ],
+        [
+          0.748545,
+          -0.00911,
+          -0.663022,
+          3.390789
+        ],
+        [
+          -0.01232,
+          -0.999924,
+          -0.00017,
+          1.55548
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "image": "view_1.jpg",
+      "frame_id": "00206",
+      "K": [
+        [
+          1170.187988,
+          0.0,
+          647.75
+        ],
+        [
+          0.0,
+          1170.187988,
+          483.75
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "camera_to_world": [
+        [
+          0.405603,
+          -0.083306,
+          -0.910245,
+          2.568424
+        ],
+        [
+          0.906057,
+          -0.094762,
+          0.412409,
+          0.831077
+        ],
+        [
+          -0.120613,
+          -0.992008,
+          0.037044,
+          1.873856
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "image": "view_2.jpg",
+      "frame_id": "00267",
+      "K": [
+        [
+          1170.187988,
+          0.0,
+          647.75
+        ],
+        [
+          0.0,
+          1170.187988,
+          483.75
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "camera_to_world": [
+        [
+          0.040405,
+          0.245258,
+          -0.968615,
+          2.93047
+        ],
+        [
+          0.999166,
+          -0.015578,
+          0.037736,
+          1.985999
+        ],
+        [
+          -0.005834,
+          -0.969333,
+          -0.245683,
+          1.629234
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    }
+  ],
+  "required_prediction": {
+    "translation": "3 numbers in world metres",
+    "rotation_wxyz": "unit quaternion, CAD local to world",
+    "scale_xyz": "3 positive local-axis scale factors"
+  }
+}

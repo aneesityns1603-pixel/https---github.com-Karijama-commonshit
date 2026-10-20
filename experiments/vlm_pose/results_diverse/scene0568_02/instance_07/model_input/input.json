@@ -1,0 +1,73 @@
+{
+  "scene_id": "scene0568_02",
+  "instance_id": 7,
+  "asset_path": "assets/shapenet/02871439/c214e1d190cb87362a9cd5247487b619/models/model_normalized.obj",
+  "cad_local_bounds": [
+    [
+      -0.279305,
+      -0.400531,
+      -0.107208
+    ],
+    [
+      0.279305,
+      0.400707,
+      0.107208
+    ]
+  ],
+  "coordinate_convention": "ScanNet world in metres; camera x right, y down, z forward; column vectors",
+  "protocol": "known GT cameras; GT-assisted view selection; object pose withheld",
+  "views": [
+    {
+      "image": "view_0.jpg",
+      "frame_id": "00165",
+      "K": [
+        [
+          1169.621094,
+          0.0,
+          646.295044
+        ],
+        [
+          0.0,
+          1167.105103,
+          489.927032
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "camera_to_world": [
+        [
+          0.466367,
+          0.134358,
+          -0.874328,
+          2.657328
+        ],
+        [
+          0.880086,
+          -0.170113,
+          0.443296,
+          2.971112
+        ],
+        [
+          -0.089174,
+          -0.976222,
+          -0.197582,
+          2.109364
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    }
+  ],
+  "required_prediction": {
+    "translation": "3 numbers in world metres",
+    "rotation_wxyz": "unit quaternion, CAD local to world",
+    "scale_xyz": "3 positive local-axis scale factors"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "scene_id": "scene0568_02",
+  "instance_id": 8,
+  "asset_path": "assets/shapenet/03001627/8ab6783b1dfbf3a8a5d9ad16964840ab/models/model_normalized.obj",
+  "cad_local_bounds": [
+    [
+      -0.198452,
+      -0.523858,
+      -0.295717
+    ],
+    [
+      0.199733,
+      0.309943,
+      0.086678
+    ]
+  ],
+  "coordinate_convention": "ScanNet world in metres; camera x right, y down, z forward; column vectors",
+  "protocol": "known GT cameras; GT-assisted view selection; object pose withheld",
+  "views": [
+    {
+      "image": "view_0.jpg",
+      "frame_id": "00218",
+      "K": [
+        [
+          1169.621094,
+          0.0,
+          646.295044
+        ],
+        [
+          0.0,
+          1167.105103,
+          489.927032
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "camera_to_world": [
+        [
+          0.675655,
+          -0.369434,
+          0.637972,
+          1.439094
+        ],
+        [
+          -0.737217,
+          -0.339346,
+          0.584256,
+          5.155435
+        ],
+        [
+          0.000649,
+          -0.86508,
+          -0.501634,
+          1.917398
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "image": "view_1.jpg",
+      "frame_id": "00203",
+      "K": [
+        [
+          1169.621094,
+          0.0,
+          646.295044
+        ],
+        [
+          0.0,
+          1167.105103,
+          489.927032
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "camera_to_world": [
+        [
+          0.915594,
+          -0.179991,
+          0.359571,
+          1.798039
+        ],
+        [
+          -0.401988,
+          -0.388168,
+          0.829296,
+          4.510214
+        ],
+        [
+          -0.009692,
+          -0.903841,
+          -0.427759,
+          1.995742
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    }
+  ],
+  "required_prediction": {
+    "translation": "3 numbers in world metres",
+    "rotation_wxyz": "unit quaternion, CAD local to world",
+    "scale_xyz": "3 positive local-axis scale factors"
+  }
+}
